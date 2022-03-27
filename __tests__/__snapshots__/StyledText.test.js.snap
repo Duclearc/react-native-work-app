@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<StyledText /> renders correctly 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "#333333",
+        "fontFamily": "OpenSans_300Light",
+        "fontSize": 22,
+      },
+      undefined,
+    ]
+  }
+/>
+`;
